@@ -1,2 +1,2 @@
-# Projet-Math-matiques-
-Projet orienté Finance
+# Projet-Mathématiques-
+Projet orienté Finance codé en Python
